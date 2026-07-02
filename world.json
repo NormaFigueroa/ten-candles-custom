@@ -1,9 +1,9 @@
 {
-  "title": "Ten Candles de Fangirl",
-  "id": "ten-candles-de-fangirl",
+  "title": "ten-candles-custom",
+  "id": "Ten Candles - Herramientas de Mesa",
   "system": "worldbuilding",
   "joinTheme": "default",
-  "description": "<p>Este mundo esta diseñado para las partidas de Ten Candles.</p>",
+  "description": "<p>Módulo personalizado con macros e iluminación dinámica para Ten Candles.</p>",
   "coreVersion": "12.343",
   "compatibility": {
     "minimum": "12",
@@ -17,7 +17,7 @@
       "label": "ten-candles-macros",
       "type": "Macro",
       "name": "ten-candles-macros",
-      "path": "packs/ten-candles-macros",
+      "path": "packs/macros",
       "system": "worldbuilding",
       "ownership": {
         "PLAYER": "OBSERVER",
@@ -26,5 +26,8 @@
       "flags": {},
       "package": "world"
     }
-  ]
+  ],
+  "url":"https://github.com/NormaFigueroa/ten-candles-custom",
+  "manifest":"https://raw.githubusercontent.com/NormaFigueroa/ten-candles-custom/main/world.json",
+  "download":"https://github.com/NormaFigueroa/ten-candles-custom/archive/refs/heads/main.zip"
 }
