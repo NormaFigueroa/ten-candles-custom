@@ -1,0 +1,30 @@
+{
+  "title": "Ten Candles de Fangirl",
+  "id": "ten-candles-de-fangirl",
+  "system": "worldbuilding",
+  "joinTheme": "default",
+  "description": "<p>Este mundo esta diseñado para las partidas de Ten Candles.</p>",
+  "coreVersion": "12.343",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "systemVersion": "0.8.2",
+  "lastPlayed": "Wed Jul 01 2026 21:57:37 GMT-0600 (hora estándar central)",
+  "playtime": 9822,
+  "packs": [
+    {
+      "label": "ten-candles-macros",
+      "type": "Macro",
+      "name": "ten-candles-macros",
+      "path": "packs/ten-candles-macros",
+      "system": "worldbuilding",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {},
+      "package": "world"
+    }
+  ]
+}
